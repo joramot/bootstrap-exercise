@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Crete+Round&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+
+header {
+  height: 4.5rem;
+  background-color: #3e3c3c;
+  color: #fff;
+  font-family: 'Inter', sans-serif;
+}
+
+.head {
+  background-color: #000;
+  background-image: url(./images/Illustration-header-5.png);
+  background-repeat: no-repeat;
+  background-position: right -10%;
+}
+
+.headline h1 {
+  margin: 12rem 0 0 0;
+  font-family: 'crete round', sans-serif;
+  font-size: 4.5rem;
+  font-weight: 400;
+  color: #f55800;
+}
+
+.headline h2 {
+  font-family: Inter, sans-serif;
+  font-size: 2rem;
+  font-weight: 500;
+  color: #fff;
+  animation-name: text;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+}
+
+.headline p {
+  font-family: Inter, sans-serif;
+  font-size: 1.25rem;
+  font-weight: 400;
+  line-height: 2rem;
+  color: #fff;
+  animation-duration: 3s;
+  animation-name: slidein;
+}
+
+.button {
+  color: #fff;
+  background-color: #f55800;
+}
+
+.card-1 {
+  background-image: url(../images/1-img-paceholder.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.card-2 {
+  background-image: url(../images/2-img-placeholder.png);
+  background-repeat: no-repeat;
+}
+
+.card-3 {
+  background-image: url(../images/3-img-placeholder.png);
+  background-repeat: no-repeat;
+}
+
+.card-4 {
+  background-image: url(../images/4-img-placeholder.png);
+  background-repeat: no-repeat;
+}
