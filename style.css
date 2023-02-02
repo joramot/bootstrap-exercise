@@ -69,3 +69,10 @@ header {
   background-image: url(../images/4-img-placeholder.png);
   background-repeat: no-repeat;
 }
+
+.about-me-container {
+  background: #262626;
+  background-image: url(../images/illustration-about-me.png);
+  background-repeat: no-repeat;
+  background-position: 100% 10%;
+}
